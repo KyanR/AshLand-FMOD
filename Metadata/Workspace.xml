@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Workspace" id="{c4027550-5d37-4695-9c33-4d45219dfba1}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Unity Projects/Capstone Project/FireFlight/Project Test/Assets/FMODBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{081152c8-3e17-4150-88c9-6a6965828d14}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{18126a4d-e715-4c03-8b20-e9a09bde4743}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{13b4d497-9a3a-4615-80bc-63fe11c979ab}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{9b38fbfd-abc9-4ba2-9e60-ae3257ac1cf9}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{df4c8d08-7ced-42c1-9760-fdaf3fb10e03}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{74523b95-6193-4cae-b7ab-d1380987d8ba}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{caaa36cd-a34a-40cd-9842-d9c68b78d35b}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b21a4ba9-1037-4394-92d2-a19591787566}</destination>
+			<destination>{a7a286ab-f98a-43a5-a09d-4492ea4e9b1c}</destination>
+		</relationship>
+	</object>
+</objects>
