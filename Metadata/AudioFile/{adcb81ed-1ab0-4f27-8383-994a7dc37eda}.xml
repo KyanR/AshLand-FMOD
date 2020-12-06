@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{adcb81ed-1ab0-4f27-8383-994a7dc37eda}">
+		<property name="assetPath">
+			<value>AshLands_Wind.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>275.22395833333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{74523b95-6193-4cae-b7ab-d1380987d8ba}</destination>
+		</relationship>
+	</object>
+</objects>
