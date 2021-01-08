@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f502009f-ecc3-4b7d-8ba5-adb3be3e3d1a}">
+		<property name="assetPath">
+			<value>GRAVEL_05 - Trimmed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.74399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{74523b95-6193-4cae-b7ab-d1380987d8ba}</destination>
+		</relationship>
+	</object>
+</objects>

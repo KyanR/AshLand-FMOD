@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{da7c7c5a-da4d-458c-955b-bf63ffb5909e}">
 		<property name="name">
 			<value>Amb_MainLevel</value>
@@ -124,6 +124,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{234741f1-96e2-4dbc-845d-ff74bd9b2e16}">
+		<property name="volume">
+			<value>-14</value>
+		</property>
 		<property name="name">
 			<value>Wind</value>
 		</property>
@@ -175,6 +178,7 @@
 	<object class="MixerBusEffectChain" id="{61954190-ed3e-4c9b-bb05-fe344c17a2f3}">
 		<relationship name="effects">
 			<destination>{0d74ef90-06af-43a6-a943-d1c9c4ef1e6f}</destination>
+			<destination>{aa4874d7-d7ce-442f-90b7-50cee8adbad7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4edd722d-ec64-41f1-8f87-d6c901ce0bad}" />
@@ -196,6 +200,17 @@
 	</object>
 	<object class="MixerBusFader" id="{ec0e6e81-ad24-4661-9e58-4af9723e5d7a}" />
 	<object class="MixerBusFader" id="{0d74ef90-06af-43a6-a943-d1c9c4ef1e6f}" />
+	<object class="ThreeEQEffect" id="{aa4874d7-d7ce-442f-90b7-50cee8adbad7}">
+		<property name="lowGain">
+			<value>-13</value>
+		</property>
+		<property name="midGain">
+			<value>-5</value>
+		</property>
+		<property name="highGain">
+			<value>-5.5</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{506a1bed-9aed-44d4-ab07-41b8fce1856b}" />
 	<object class="AutomationPoint" id="{0f7c0453-7362-4996-9810-e2148c80391c}">
 		<property name="position">

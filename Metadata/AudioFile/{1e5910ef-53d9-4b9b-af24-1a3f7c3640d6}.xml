@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{1e5910ef-53d9-4b9b-af24-1a3f7c3640d6}">
+		<property name="assetPath">
+			<value>LEAVES_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.8375833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{74523b95-6193-4cae-b7ab-d1380987d8ba}</destination>
+		</relationship>
+	</object>
+</objects>
